@@ -1,0 +1,1 @@
+rootProject.name = "unq-obj2-2026s1"
